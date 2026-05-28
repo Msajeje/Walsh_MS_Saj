@@ -1,0 +1,5 @@
+Set,Model,CV_AUC,AUC,F1,Precision,Recall,Brier
+Set1_Tuned,LR (tuned),0.734,0.8158,0.2584,0.1565,0.7419,0.1971
+Set1_Tuned,RF (tuned),0.7352,0.8056,0.3434,0.25,0.5484,0.1121
+Set1_Tuned,XGB (tuned),0.7431,0.798,0.3309,0.213,0.7419,0.1491
+Set1_Tuned,LGB (tuned),0.7411,0.7896,0.2893,0.1797,0.7419,0.1831

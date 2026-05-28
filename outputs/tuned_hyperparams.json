@@ -1,0 +1,28 @@
+{
+  "Logistic Regression": {
+    "C": "0.03237265659102036",
+    "penalty": "l1"
+  },
+  "Random Forest": {
+    "max_depth": "8",
+    "max_features": "0.9211763256616086",
+    "min_samples_split": "3",
+    "n_estimators": "101"
+  },
+  "XGBoost": {
+    "colsample_bytree": "0.6",
+    "learning_rate": "0.019811640526361446",
+    "max_depth": "7",
+    "n_estimators": "384",
+    "reg_alpha": "0.0034657846524006396",
+    "subsample": "0.8290641981254947"
+  },
+  "LightGBM": {
+    "learning_rate": "0.027331820654920496",
+    "max_depth": "6",
+    "n_estimators": "327",
+    "num_leaves": "59",
+    "reg_alpha": "2.0983157888467185",
+    "subsample": "0.6232400881459156"
+  }
+}
