@@ -1,27 +1,27 @@
 {
   "RQ1": {
-    "required_events": 827,
-    "available_events": 31,
-    "achieved_power": "5.8%",
+    "required_events": 4877,
+    "available_events": 25,
+    "achieved_power": "3.5%",
     "status": "Underpowered"
   },
   "RQ2": {
-    "required_events": 13019,
-    "available_events": 31,
+    "required_events": 12384,
+    "available_events": 25,
     "status": "Severely underpowered"
   },
   "RQ3": {
-    "required_events": 12556,
-    "available_events": 31,
+    "required_events": 2553,
+    "available_events": 25,
     "status": "Severely underpowered"
   },
   "RQ4": {
-    "bootstrap_events": 24,
+    "bootstrap_events": 20,
     "status": "Marginal \u2014 feasible"
   },
   "EPV": {
-    "epv": 3.4166666666666665,
+    "epv": 2.1944444444444446,
     "threshold": 10,
-    "status": "Below threshold (EPV=3.4)"
+    "status": "Below threshold (EPV=2.2)"
   }
 }
