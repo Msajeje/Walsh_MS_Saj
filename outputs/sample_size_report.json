@@ -1,27 +1,30 @@
 {
   "RQ1": {
-    "required_events": 4877,
+    "required_events": 2203,
     "available_events": 25,
-    "achieved_power": "3.5%",
-    "status": "Underpowered"
+    "achieved_power": "6.0%",
+    "status": "UNDERPOWERED"
   },
   "RQ2": {
-    "required_events": 12384,
+    "required_events": 1438,
     "available_events": 25,
-    "status": "Severely underpowered"
+    "achieved_power": "6.6%",
+    "status": "UNDERPOWERED"
   },
   "RQ3": {
-    "required_events": 2553,
+    "required_events": 197,
     "available_events": 25,
-    "status": "Severely underpowered"
+    "achieved_power": "17.0%",
+    "status": "UNDERPOWERED"
   },
   "RQ4": {
-    "bootstrap_events": 20,
-    "status": "Marginal \u2014 feasible"
+    "bootstrap_events": 63,
+    "training_defaults": 79,
+    "status": "FEASIBLE"
   },
   "EPV": {
     "epv": 2.1944444444444446,
     "threshold": 10,
-    "status": "Below threshold (EPV=2.2)"
+    "status": "Below threshold (EPV=2.2); mitigated via L2 regularisation (C=0.1)"
   }
 }
